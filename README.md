@@ -8,8 +8,8 @@ Sou um programador Full Stack, atualmente fazendo o curso Full Stack no DevClub 
 
 
 <h3>Currículo:</h3> 
-<!--  <a href="componentes/CV.pdf" download="CV.pdf" type="aplication/pdf"> <img width="20%" height="20%" src="./componentes/download.gif"/> </a>  -->
-  
+<a href="componentes/CV.pdf" download="CV.pdf" type="aplication/pdf"> <img width="20%" height="20%" src="./componentes/download.gif"/> </a>
+ 
 
 
 
@@ -56,9 +56,8 @@ Sou um programador Full Stack, atualmente fazendo o curso Full Stack no DevClub 
 ### Studying in this moment:
 
 
-![devclublogo](https://user-images.githubusercontent.com/40275428/228668945-76758435-556d-447f-8b3e-d27ef80b48b2.jpg)
   
-<!--  <img width="20px" height="20px" src="./componentes/logodevclub.png" />  -->
+<img width="20px" height="20px" src="./componentes/logodevclub.png" />
   
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
